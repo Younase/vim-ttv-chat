@@ -2,7 +2,10 @@
 
 ## Introduction
 
-vim-ttv-chat is a twitch chat plugin for vim. based on [twitch-chat-cli](https://github.com/martinbjeldbak/twitch-chat-cli).
+vim-ttv-chat is a twitch chat plugin for vim based on [twitch-chat-cli](https://github.com/martinbjeldbak/twitch-chat-cli).
+
+![vim-ttv-chat screenshot](https://github.com/Younase/vim-ttv-chat/blob/main/screenshot.png?raw=true)
+
 twitch-chat-cli is required for this plugin to work, make sure to add it to your path variable in your bashrc:
 ```
 export PATH=/path/to/twitch-chat-cli:$PATH
