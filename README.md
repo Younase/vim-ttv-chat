@@ -18,13 +18,13 @@ Use your favorite plugin manager to install this plugin.
 ### [Vim-Plug](https://github.com/junegunn/vim-plug)
 
 1. Make sure Vim-Plus is properly installed.
-1. Add the following text to your vimrc.
+2. Add the following text to your vimrc.
 ```vim
 call plug#begin()
   Plug 'preservim/nerdtree'
 call plug#end()
 ```
-1. restart vim and run the PlugInstall command to install your plugins.
+3. restart vim and run the PlugInstall command to install your plugins.
 
 ## Usage
 
