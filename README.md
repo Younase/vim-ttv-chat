@@ -21,7 +21,7 @@ Use your favorite plugin manager to install this plugin.
 2. Add the following text to your vimrc.
 ```vim
 call plug#begin()
-  Plug 'preservim/nerdtree'
+  Plug 'younase/vim-ttv-chat'
 call plug#end()
 ```
 3. restart vim and run the PlugInstall command to install your plugins.
